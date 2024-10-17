@@ -1,1 +1,1 @@
-Contains all the code written while learning interative computer graphics
+Contains all the code written while learning interactive computer graphics
